@@ -2,7 +2,7 @@ public class BubbleSort {
 
     public static void main (String[] args) {
 
-        int[] input = new int[] {5,1,7,4,7,8,8,-44,-67,45,48};
+        int[] input = new int[] {5,1,7,4,7,8,8,-44,-67,45,48,60};
         int[] output = bubbleSort(input);
         printSortedArray(output);
 
